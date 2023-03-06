@@ -5,15 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45bec055-54f9-4d62-a956-2b3d9c62ce2b" name="Changes" comment="git initialization">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture01/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture01/files.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture01/lib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture01/program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,7 +34,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2Ma7eVitR005W4Axbi9hI6SMqp2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,7 +45,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/wolfy/Downloads/IntroJavaLectures1/src/main/java/lecture01",
+    "last_opened_file_path": "C:/Users/wolfy/Downloads/IntroJavaLectures/src/main/java/lecture02",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -46,6 +53,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wolfy\Downloads\IntroJavaLectures\src\main\java\lecture02" />
       <recent name="C:\Users\wolfy\Downloads\IntroJavaLectures1\src\main\java\lecture01" />
     </key>
   </component>
