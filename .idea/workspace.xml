@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45bec055-54f9-4d62-a956-2b3d9c62ce2b" name="Changes" comment="git initialization">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/wolfy/Downloads/IntroJavaLectures/src/main/java/lecture02",
+    "last_opened_file_path": "C:/Users/wolfy/Downloads/IntroJavaLectures",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -55,6 +54,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\wolfy\Downloads\IntroJavaLectures\src\main\java\lecture02" />
       <recent name="C:\Users\wolfy\Downloads\IntroJavaLectures1\src\main\java\lecture01" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wolfy\Downloads\IntroJavaLectures\src\main\java" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
